@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32901.215
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "BinGame", "BinGame.pyproj", "{77A4BDFE-F6B0-4213-9C13-FD66C8A60601}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77A4BDFE-F6B0-4213-9C13-FD66C8A60601}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77A4BDFE-F6B0-4213-9C13-FD66C8A60601}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2491194F-9E42-4486-A6CF-FDA1C8C57D77}
+	EndGlobalSection
+EndGlobal
